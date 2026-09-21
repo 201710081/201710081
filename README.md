@@ -1,20 +1,73 @@
-# SonMW
+<h1 align="center">SonMW</h1>
 
-**Data Visualization Engineer · milvus**
+<p align="center"><b>Data Visualization Engineer · milvus</b></p>
 
-**비즈니스 질문을 지표로 정의하고, 데이터 전처리부터 데이터마트와 대시보드 구축까지 연결합니다.**
+<p align="center">
+  비즈니스 질문을 <b>지표</b>로 정의하고,<br>
+  데이터 전처리부터 <b>데이터마트와 대시보드</b> 구축까지 연결합니다.
+</p>
 
-세일즈포스 파트너사 **milvus(밀버스)**에서 데이터 분석 및 BI 구축 업무를 수행하는 **4년 차 데이터 시각화 엔지니어**입니다.
-제조·유통·금융·공공·미디어 등 다양한 산업의 **15건 이상 프로젝트**에서 지표 설계, 데이터 전처리, 데이터마트 구축, 대시보드 개발을 경험했습니다.
+<p align="center">
+  <img alt="4년 차 · 데이터 시각화" src="https://img.shields.io/badge/4%EB%85%84%20%EC%B0%A8%20%C2%B7%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94-476A64?style=for-the-badge"/>
+  <img alt="15건 이상 · 프로젝트 경험" src="https://img.shields.io/badge/15%EA%B1%B4%20%EC%9D%B4%EC%83%81%20%C2%B7%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B2%BD%ED%97%98-4E79A7?style=for-the-badge"/>
+  <img alt="SQL · Python · Tableau" src="https://img.shields.io/badge/SQL%20%C2%B7%20Python%20%C2%B7%20Tableau-B77845?style=for-the-badge"/>
+</p>
 
-현재는 **ADAPT(어댑트)** 프로젝트의 커머스 데이터 플랫폼을 인수해 운영·개선하고 있으며, **구다이글로벌** 프로젝트의 데이터마트 구축에도 참여하고 있습니다.
-BI 구축과 데이터 수집·모델링·검증 경험을 바탕으로, 지표의 변화를 설명하고 실제 업무에서의 활용과 개선까지 이어가는 데이터 분석가로 성장하고자 합니다.
+<br>
 
-<br/>
+<h3 align="center">👋 About 👋</h3>
 
-<h2>💼 경력 · 활동</h2>
 
-<table>
+<p align="center">
+  세일즈포스 파트너사 <b>MILVUS(밀버스)</b>에서 데이터 분석 및 BI 구축을 담당하고 있습니다.<br>
+  제조·유통·금융·공공·미디어 등 다양한 산업에서<br>
+  <b>지표 설계 · 데이터 전처리 · 데이터마트 구축 · 대시보드 개발</b>을 경험했습니다.
+</p>
+
+<p align="center">
+  현업의 업무 흐름을 이해하고, 서로 다른 데이터를 일관된 기준으로 정리합니다.<br>
+  경영진 보고부터 현업 모니터링까지 <b>사용 목적에 맞는 화면</b>을 만듭니다.
+</p>
+
+<p align="center">
+  BI 구축과 데이터 수집·모델링·검증 경험을 바탕으로,<br>
+  <b>지표의 변화를 설명하고 실제 업무에서의 활용과 개선까지 이어가는 데이터 분석가</b>로 성장하고자 합니다.
+</p>
+
+<br>
+
+<h3 align="center">🧩 What I Do 🧩</h3>
+
+
+<table align="center">
+<tr><th align="center" width="185">영역</th><th align="left">하는 일</th></tr>
+<tr><td align="center"><b>비즈니스 목적에 기반한 지표 설계</b></td><td align="left">현업 인터뷰와 기존 보고 양식으로 업무 흐름을 파악하고, 화면 초안에 대한 피드백을 반복하며 분석 요구사항과 지표를 구체화</td></tr>
+<tr><td align="center"><b>데이터 전처리 및 통합</b></td><td align="left">SQL · Python · Tableau Prep으로 엑셀 양식 차이, 법인 명칭 변경, 시스템 간 리드 ID 매핑 등 데이터 통합 문제에 대응</td></tr>
+<tr><td align="center"><b>분석 환경 구축 및 운영</b></td><td align="left">데이터마트 구성, ETL·증분 배치 처리, dbt · Git 기반 모델 관리, AWS 기반 데이터 파이프라인 운영</td></tr>
+<tr><td align="center"><b>사용자 중심의 시각화</b></td><td align="left">경영진 보고용 Overview부터 현업의 공정 분석·모니터링, 운영자용 데이터 카탈로그까지 목적에 맞는 화면 기획 및 구현</td></tr>
+</table>
+
+<br>
+
+<h3 align="center">🌱 Currently Working On 🌱</h3>
+
+
+<p align="center">
+  <b>ADAPT · 어댑트</b> — 커머스 데이터 플랫폼 운영·개선<br>
+  <sub>Amazon Athena · dbt 기반 모델 관리, 데이터 정합성 검증, Salesforce Data Cloud · Tableau Next 연계</sub>
+</p>
+
+<p align="center">
+  <b>구다이글로벌</b> — 데이터마트 구축<br>
+  <sub>2026.09 ~ 현재</sub>
+</p>
+
+<br>
+
+<h3 align="center">💼 Experience 💼</h3>
+
+
+<table align="center">
 <tr><th width="170">기간</th><th width="200">소속</th><th width="540">역할 · 내용</th></tr>
 <tr>
 <td valign="top"><code>2024.06.24 ~ 현재</code></td>
@@ -42,24 +95,14 @@ BI 구축과 데이터 수집·모델링·검증 경험을 바탕으로, 지표�
 </tr>
 </table>
 
-<br/>
+<br>
 
-<h2>💡 핵심 역량</h2>
+<h3 align="center">🗂️ Project History 🗂️</h3>
 
-| 역량 | 업무에서의 경험 |
-| --- | --- |
-| **비즈니스 목적에 기반한 지표 설계** | 현업 인터뷰와 기존 보고 양식으로 업무 흐름을 파악하고, 화면 초안에 대한 피드백을 반복하며 분석 요구사항과 지표를 구체화 |
-| **데이터 전처리 및 통합** | SQL · Python · Tableau Prep으로 엑셀 양식 차이, 법인 명칭 변경, 시스템 간 리드 ID 매핑 등 데이터 통합 문제에 대응 |
-| **분석 환경 구축 및 운영** | 데이터마트 구성, ETL·증분 배치 처리, dbt · Git 기반 모델 관리, AWS 기반 데이터 파이프라인 운영 |
-| **사용자 중심의 시각화** | 경영진 보고용 Overview부터 현업의 공정 분석·모니터링, 운영자용 데이터 카탈로그까지 목적에 맞는 화면 기획 및 구현 |
 
-<br/>
+<p align="center"><b>milvus · 밀버스</b></p>
 
-<h2>🗂️ 주요 프로젝트</h2>
-
-### milvus · 밀버스
-
-<table>
+<table align="center">
 <tr><th width="170">기간</th><th width="230">프로젝트</th><th width="510">담당 업무</th></tr>
 <tr><td valign="top"><code>2026.09 ~ 현재</code></td><td valign="top"><b>구다이글로벌</b></td><td>데이터마트 구축</td></tr>
 <tr><td valign="top"><code>2026.08.03 ~ 현재</code></td><td valign="top"><b>ADAPT · 어댑트</b></td><td>커머스 데이터 플랫폼 인수 및 운영·개선, 공통 데이터 모델 관리, 정합성 검증, BI 데이터 지원</td></tr>
@@ -73,9 +116,9 @@ BI 구축과 데이터 수집·모델링·검증 경험을 바탕으로, 지표�
 <tr><td valign="top"><code>2024.06 ~ 2024.10</code></td><td valign="top"><b>삼화</b></td><td>화면 기획, 아키텍처 설계, 대시보드 개발</td></tr>
 </table>
 
-### 타스코
+<p align="center"><b>타스코</b></p>
 
-<table>
+<table align="center">
 <tr><th width="170">기간</th><th width="230">프로젝트</th><th width="510">담당 업무</th></tr>
 <tr><td valign="top"><code>2024.04 ~ 2024.06</code></td><td valign="top"><b>조선일보</b></td><td>대시보드 개발</td></tr>
 <tr><td valign="top"><code>2024.01 ~ 2024.03</code></td><td valign="top"><b>백병원</b></td><td>대시보드 개발</td></tr>
@@ -83,9 +126,15 @@ BI 구축과 데이터 수집·모델링·검증 경험을 바탕으로, 지표�
 <tr><td valign="top"><code>2023.06 ~ 2023.10</code></td><td valign="top"><b>삼성카드</b></td><td>BI Matrix 기반 경영진 보고 화면 구성 및 데이터 조회 SQL 작성</td></tr>
 </table>
 
-<br/>
+<br>
 
-<h2>📊 ADAPT 프로젝트 · 담당 업무</h2>
+<h3 align="center">🔎 Project Stories 🔎</h3>
+
+
+<p align="center"><sub>프로젝트를 펼치면 담당 업무와 문제 해결 과정을 확인할 수 있습니다.</sub></p>
+
+<details>
+<summary><b>📊 ADAPT 프로젝트</b> · 커머스 데이터 플랫폼 운영 · 정합성 검증</summary>
 
 **2026.08.03 ~ 현재 | 데이터 플랫폼 운영·개선 · 데이터 모델 관리 · BI 데이터 지원**
 
@@ -127,9 +176,10 @@ BI 구축과 데이터 수집·모델링·검증 경험을 바탕으로, 지표�
 - 수정 사항은 기존 결과와의 비교 및 재검증을 거쳐 확인하고, 후속 처리에 미치는 영향을 점검합니다.
 - 반복적으로 확인해야 하는 검증 항목과 이슈 대응 과정을 정리해 이후 운영에 활용합니다.
 
-<br/>
+</details>
 
-<h2>🚗 현대자동차 글로벌서비스 · 담당 업무</h2>
+<details>
+<summary><b>🚗 현대자동차 글로벌서비스</b> · 법인 마스터 기반 데이터 통합 · 경영진 Overview</summary>
 
 **2026.07 ~ 2026.09 | 데이터 전처리 · ETL · Overview 화면 기획 및 개발**
 
@@ -152,9 +202,10 @@ BI 구축과 데이터 수집·모델링·검증 경험을 바탕으로, 지표�
 - 서비스 운영 전반의 현황을 한눈에 파악할 수 있도록 Overview 화면을 구성하고 개발했습니다.
 - 프로젝트 종료 후, 사장 보고에서 대시보드에 대한 반응이 긍정적이었다는 피드백을 현업으로부터 전달받았습니다.
 
-<br/>
+</details>
 
-<h2>🔬 파크시스템즈 · 담당 업무</h2>
+<details>
+<summary><b>🔬 파크시스템즈</b> · Salesforce × Marketo · 리드 전환 및 캠페인 성과</summary>
 
 **2025.08 ~ 2025.12 | 대시보드 기획 · 구현 · 데이터 전처리**
 
@@ -171,9 +222,10 @@ Salesforce Sales Cloud와 Adobe Marketo 데이터를 통합해, 리드의 실제
 - 리드 생성부터 수주까지의 리드타임이 긴 특성을 반영해, 장기간의 데이터를 조회할 수 있도록 기간을 구성했습니다.
 - 리드의 구매 전환과 캠페인 성과를 확인할 수 있는 경영진 보고용 화면을 기획하고 구현했습니다.
 
-<br/>
+</details>
 
-<h2>🏭 HS효성 첨단소재 · 담당 업무</h2>
+<details>
+<summary><b>🏭 HS효성 첨단소재</b> · 현업 요구사항 구체화 · Tibero 증분 배치</summary>
 
 **2025.05 ~ 2026.03 | 요구사항 구체화 · 데이터 정의 · ETL · 대시보드 기획 및 개발**
 
@@ -198,9 +250,10 @@ Salesforce Sales Cloud와 Adobe Marketo 데이터를 통합해, 리드의 실제
 - 프로젝트 내 시각화 개발 담당자로서 해당 영역의 화면 기획과 개발을 단독으로 수행했습니다.
 - 프로젝트 마무리 단계에서 현업으로부터 긍정적인 피드백을 받았습니다.
 
-<br/>
+</details>
 
-<h2>💻 삼성전자 SDP 성과 PoC · 담당 업무</h2>
+<details>
+<summary><b>💻 삼성전자 SDP 성과 PoC</b> · GA 데이터 통합 · 데이터마트 및 보고 화면</summary>
 
 **2025.03 ~ 2025.05 | 데이터 연결 · 데이터 통합 및 마트 구성 · 대시보드 개발**
 
@@ -222,9 +275,10 @@ Samsung Developer Platform의 서비스 이용 현황, 사용자 피드백, 운�
 - 서비스 이용 현황, 사용자 피드백, 운영 성과를 확인하는 대시보드를 구현했습니다.
 - 실무자의 운영 현황 확인과 경영진 보고 목적을 반영해 화면을 구성했습니다.
 
-<br/>
+</details>
 
-<h2>📣 삼성전자 언팩 마케팅 성과 · 담당 업무</h2>
+<details>
+<summary><b>📣 삼성전자 언팩 마케팅 성과</b> · D-day 성과 비교 · 마케팅 지표 · 데이터 카탈로그</summary>
 
 **2024.10 ~ 2025.02 | 성과 대시보드 개발 · TV 광고 화면 기획 및 구현 · 데이터 카탈로그 개발**
 
@@ -246,9 +300,10 @@ Samsung Developer Platform의 서비스 이용 현황, 사용자 피드백, 운�
 - 운영자가 데이터의 유입 출처와 메타데이터를 확인할 수 있는 데이터 카탈로그 대시보드를 개발했습니다.
 - 성과 화면에 활용되는 데이터의 출처와 관련 정보를 확인할 수 있도록 구성했습니다.
 
-<br/>
+</details>
 
-<h2>💳 삼성카드 · 담당 업무</h2>
+<details>
+<summary><b>💳 삼성카드</b> · BI Matrix 경영진 보고 화면 · 조회 SQL</summary>
 
 **2023.06 ~ 2023.10 | BI Matrix 화면 개발 · 데이터 조회 SQL 작성**
 
@@ -265,51 +320,46 @@ Samsung Developer Platform의 서비스 이용 현황, 사용자 피드백, 운�
 - 화면에서 사용할 데이터를 조회하는 SQL을 작성하고 대시보드에 연결했습니다.
 - 첫 대규모 프로젝트에서 동료들에게 질문하고 피드백을 받으며 BI 화면 개발과 SQL 작성 경험을 쌓았습니다.
 
-<br/>
+</details>
 
-<h2>🎯 데이터 분석가로서의 방향</h2>
+<br>
 
-지표 설계와 BI 구축 경험에 데이터 플랫폼 운영 경험을 더해, 분석 결과가 실제 업무에서 어떻게 활용되는지 확인하고 지속적인 개선으로 이어가고자 합니다.
+<h3 align="center">✨ Tech Stack ✨</h3>
 
-| 방향 | 지향하는 분석 |
-| --- | --- |
-| **비즈니스 질문과 지표 정의** | 현업의 질문을 구체화하고, 목적에 맞는 지표·집계 단위·비교 기준을 설정하는 분석 |
-| **성과 변화의 원인 분석** | 매출·마케팅·서비스 운영 지표의 변화를 기간·채널 등 세부 단위로 살펴보고 원인을 설명하는 분석 |
-| **신뢰할 수 있는 데이터** | 원천 데이터부터 최종 지표까지 집계 기준과 정합성을 검증하고, 해석의 근거를 확인할 수 있는 분석 |
-| **활용과 지속적인 개선** | 분석 결과와 대시보드가 실제 업무에서 어떻게 활용되는지 확인하고, 후속 개선과 고도화로 이어가는 분석 |
 
-<br/>
+<p align="center"><b>BI &amp; Visualization</b></p>
+<p align="center">
+  <img alt="Tableau Desktop" src="https://img.shields.io/badge/Tableau%20Desktop-E97627?style=for-the-badge"/>
+  <img alt="Tableau Cloud" src="https://img.shields.io/badge/Tableau%20Cloud-4E79A7?style=for-the-badge"/>
+  <img alt="Tableau Server" src="https://img.shields.io/badge/Tableau%20Server-285B73?style=for-the-badge"/>
+  <img alt="Tableau Next" src="https://img.shields.io/badge/Tableau%20Next-1F457E?style=for-the-badge"/>
+  <img alt="BI Matrix" src="https://img.shields.io/badge/BI%20Matrix-475569?style=for-the-badge"/>
+</p>
 
-<h2>🛠 Tech Stack</h2>
+<p align="center"><b>Data &amp; Programming</b></p>
+<p align="center">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-85733B?style=for-the-badge"/>
+  <img alt="Tableau Prep" src="https://img.shields.io/badge/Tableau%20Prep-E97627?style=for-the-badge"/>
+  <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge"/>
+</p>
 
-<table>
-<tr>
-<td width="180"><b>Languages</b></td>
-<td><img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white"/> <img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&amp;logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=flat-square&amp;logo=javascript&amp;logoColor=white"/></td>
-</tr>
-<tr>
-<td><b>Cloud &amp; Data Engineering</b></td>
-<td><img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&amp;logoColor=white"/> <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?style=flat-square&amp;logoColor=white"/> <img alt="Amazon Athena" src="https://img.shields.io/badge/Amazon%20Athena-8C4FFF?style=flat-square&amp;logoColor=white"/> <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&amp;logo=dbt&amp;logoColor=white"/></td>
-</tr>
-<tr>
-<td><b>Data Platform</b></td>
-<td><img alt="Salesforce Data Cloud" src="https://img.shields.io/badge/Salesforce%20Data%20Cloud-00A1E0?style=flat-square&amp;logoColor=white"/> <img alt="Tableau Next" src="https://img.shields.io/badge/Tableau%20Next-E97627?style=flat-square&amp;logoColor=white"/></td>
-</tr>
-<tr>
-<td><b>Visualization &amp; BI</b></td>
-<td><img alt="Tableau Desktop" src="https://img.shields.io/badge/Tableau%20Desktop-E97627?style=flat-square&amp;logoColor=white"/> <img alt="Tableau Cloud" src="https://img.shields.io/badge/Tableau%20Cloud-E97627?style=flat-square&amp;logoColor=white"/> <img alt="Tableau Server" src="https://img.shields.io/badge/Tableau%20Server-E97627?style=flat-square&amp;logoColor=white"/> <img alt="BI Matrix" src="https://img.shields.io/badge/BI%20Matrix-2455A4?style=flat-square&amp;logoColor=white"/></td>
-</tr>
-<tr>
-<td><b>Data Preparation</b></td>
-<td><img alt="Tableau Prep" src="https://img.shields.io/badge/Tableau%20Prep-E97627?style=flat-square&amp;logoColor=white"/></td>
-</tr>
-<tr>
-<td><b>Version Control</b></td>
-<td><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white"/></td>
-</tr>
-</table>
+<p align="center"><b>Cloud &amp; Platform</b></p>
+<p align="center">
+  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-C77B12?style=for-the-badge"/>
+  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge"/>
+  <img alt="Amazon Athena" src="https://img.shields.io/badge/Amazon%20Athena-8C4FFF?style=for-the-badge"/>
+  <img alt="Salesforce Data Cloud" src="https://img.shields.io/badge/Salesforce%20Data%20Cloud-00A1E0?style=for-the-badge"/>
+</p>
 
-### 업무에서의 활용
+<p align="center"><b>Version Control</b></p>
+<p align="center">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge"/>
+</p>
+
+<details>
+<summary><b>기술별 업무 활용 보기</b></summary>
 
 | 기술 | 활용 영역 |
 | --- | --- |
@@ -323,3 +373,21 @@ Samsung Developer Platform의 서비스 이용 현황, 사용자 피드백, 운�
 | **AWS Lambda · Amazon S3** | API 데이터 수집, 원천 적재 및 후속 처리 흐름 운영 |
 | **Salesforce Data Cloud** | 데이터 연동·매핑·갱신과 분석용 집계 데이터 관리 |
 | **Tableau Next** | BI 분석에 필요한 데이터 원본 관리 및 수치 확인 지원 |
+
+</details>
+
+<br>
+
+<h3 align="center">🎯 What’s Next 🎯</h3>
+
+
+지표 설계와 BI 구축 경험에 데이터 플랫폼 운영 경험을 더해, 분석 결과가 실제 업무에서 어떻게 활용되는지 확인하고 지속적인 개선으로 이어가고자 합니다.
+
+| 방향 | 지향하는 분석 |
+| --- | --- |
+| **비즈니스 질문과 지표 정의** | 현업의 질문을 구체화하고, 목적에 맞는 지표·집계 단위·비교 기준을 설정하는 분석 |
+| **성과 변화의 원인 분석** | 매출·마케팅·서비스 운영 지표의 변화를 기간·채널 등 세부 단위로 살펴보고 원인을 설명하는 분석 |
+| **신뢰할 수 있는 데이터** | 원천 데이터부터 최종 지표까지 집계 기준과 정합성을 검증하고, 해석의 근거를 확인할 수 있는 분석 |
+| **활용과 지속적인 개선** | 분석 결과와 대시보드가 실제 업무에서 어떻게 활용되는지 확인하고, 후속 개선과 고도화로 이어가는 분석 |
+
+<br>
