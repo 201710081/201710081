@@ -2,6 +2,8 @@
 
 <p align="center"><b>Data Visualization Engineer · milvus</b></p>
 
+<p align="center"><a href="https://github.com/201710081/201710081/blob/main/docs/project-experience.md"><b>📖 상세 경력기술서 보기</b></a></p>
+
 <p align="center">
   비즈니스 질문을 <b>지표</b>로 정의하고,<br>
   데이터 전처리부터 <b>데이터마트와 대시보드</b> 구축까지 연결합니다.
