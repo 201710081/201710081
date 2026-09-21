@@ -78,7 +78,7 @@
   <li>현업 인터뷰를 통한 요구사항 구체화, 지표 정의 및 대시보드 기획</li>
   <li>SQL · Python 기반 데이터 전처리, ETL 및 데이터마트 구축</li>
   <li>Tableau 기반 대시보드 개발과 고객사별 영업지원 PoC 수행</li>
-  <li>ADAPT 커머스 데이터 플랫폼 인수 및 운영·개선 <code>2026.08.03 ~ 현재</code></li>
+  <li>ADAPT 커머스 데이터 플랫폼 인수 및 운영·개선 <code>2026.08.25 ~ 현재</code></li>
 </ul>
 </td>
 </tr>
@@ -105,7 +105,7 @@
 <table align="center">
 <tr><th width="170">기간</th><th width="230">프로젝트</th><th width="510">담당 업무</th></tr>
 <tr><td valign="top"><code>2026.09 ~ 현재</code></td><td valign="top"><b>구다이글로벌</b></td><td>데이터마트 구축</td></tr>
-<tr><td valign="top"><code>2026.08.03 ~ 현재</code></td><td valign="top"><b>ADAPT · 어댑트</b></td><td>커머스 데이터 플랫폼 인수 및 운영·개선, 공통 데이터 모델 관리, 정합성 검증, BI 데이터 지원</td></tr>
+<tr><td valign="top"><code>2026.08.25 ~ 현재</code></td><td valign="top"><b>ADAPT · 어댑트</b></td><td>커머스 데이터 플랫폼 인수 및 운영·개선, 공통 데이터 모델 관리, 정합성 검증, BI 데이터 지원</td></tr>
 <tr><td valign="top"><code>2026.07 ~ 2026.09</code></td><td valign="top"><b>현대자동차 글로벌서비스</b></td><td>부품을 제외한 서비스 운영 데이터 전처리·ETL, 경영진용 Overview 화면 기획 및 개발</td></tr>
 <tr><td valign="top"><code>2026.01 ~ 2026.06</code></td><td valign="top"><b>Tableau 영업지원 PoC</b></td><td>Luvum, mz beverage, 현대모비스, 현대글로비스 대상 데이터 분석 및 대시보드 구현</td></tr>
 <tr><td valign="top"><code>2025.08 ~ 2025.12</code></td><td valign="top"><b>파크시스템즈</b></td><td>Salesforce · Marketo 데이터 전처리 및 통합, 경영진 보고용 대시보드 기획·구현</td></tr>
@@ -136,7 +136,7 @@
 <details>
 <summary><b>📊 ADAPT 프로젝트</b> · 커머스 데이터 플랫폼 운영 · 정합성 검증</summary>
 
-**2026.08.03 ~ 현재 | 데이터 플랫폼 운영·개선 · 데이터 모델 관리 · BI 데이터 지원**
+**2026.08.25 ~ 현재 | 데이터 플랫폼 운영·개선 · 데이터 모델 관리 · BI 데이터 지원**
 
 여러 판매 채널의 데이터를 통합해 커머스 매출과 광고 지표를 분석할 수 있도록 지원하는 프로젝트입니다.
 기존 데이터 플랫폼과 관련 업무를 인수받아, 데이터 흐름과 업무 규칙을 파악하고 운영·유지보수와 개선을 담당하고 있습니다.
