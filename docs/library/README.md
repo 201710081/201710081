@@ -17,18 +17,18 @@
 <p><sub>계획·실적 비교 / KPI 카드 / 상세 분석</sub></p>
 </td>
 <td width="50%" valign="top">
-<a href="traffic.md"><img src="assets/traffic.png" alt="서비스 트래픽 분석 — 마스킹한 화면" width="100%"></a>
-<h3><a href="traffic.md">02 · 서비스 트래픽 분석</a></h3>
-<p>방문자는 어디에서 유입되고, 어떻게 이용하는가?</p>
-<p><sub>행동 지표 / 채널 분석 / 히트맵</sub></p>
+<a href="luvum.md"><img src="assets/luvum.png" alt="영업 파이프라인·전환 분석 — 마스킹한 화면" width="100%"></a>
+<h3><a href="luvum.md">02 · 영업 파이프라인·전환 분석</a></h3>
+<p>바이어 발굴은 어느 단계까지 진행되었는가?</p>
+<p><sub>디자인·개발 100% / 단계별 KPI / 담당자 비교</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="ads.md"><img src="assets/ads.png" alt="광고비·매체 성과 분석 — 마스킹한 화면" width="100%"></a>
-<h3><a href="ads.md">03 · 광고비·매체 성과 분석</a></h3>
-<p>광고비는 어디에 쓰였고, 매체별 성과는 어떤가?</p>
-<p><sub>매체별 KPI / 비용 추이 / 성과 비교</sub></p>
+<a href="mz.md"><img src="assets/mz.png" alt="매출·목표 달성률 분석 — 마스킹한 화면" width="100%"></a>
+<h3><a href="mz.md">03 · 매출·목표 달성률 분석</a></h3>
+<p>매출은 목표 대비 어느 수준이며, 채널별 차이는 무엇인가?</p>
+<p><sub>제작 100% / 목표·실적 비교 / 채널별 추이</sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="cashflow.md"><img src="assets/cashflow.png" alt="펀드·ETF 현금흐름 모니터링 — 마스킹한 화면" width="100%"></a>
@@ -39,6 +39,12 @@
 </tr>
 </table>
 
+## 웹 행동 분석 참고 자료
+
+[**05 · 웹 행동·로그인 전환 분석**](webref.md) - 사용자 매뉴얼에서 발췌한 참고 사례입니다.
+
+[![웹 행동 분석 참고 화면](assets/webref.png)](webref.md)
+
 ## 화면에서 확인할 수 있는 것
 
 | 관점 | 확인할 내용 |
@@ -46,6 +52,6 @@
 | 지표의 우선순위 | 전체 상황을 먼저 파악할 수 있는 KPI 요약 |
 | 비교 기준 | 기간·채널·항목별 차이가 드러나는 배치 |
 | 분석의 흐름 | 요약에서 세부 항목과 상세 표로 이어지는 구성 |
-| 표현 방식 | 목적에 맞춘 막대·선·도넛·히트맵·지도·표 활용 |
+| 표현 방식 | 목적에 맞춘 막대·선·도넛·게이지·표 활용 |
 
 [상세 경력기술서 보기](../project-experience.md) · [프로필로 돌아가기](../../README.md)

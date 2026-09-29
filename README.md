@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://github.com/201710081/201710081/blob/main/docs/project-experience.md"><b>📖 상세 경력기술서 보기</b></a></p>
 
-<p align="center"><a href="docs/library/README.md"><b>📊 대시보드 자료실 보기</b></a><br><sub>운영비용 · 서비스 트래픽 · 광고 성과 · 현금흐름 | 이미지와 화면 구성 설명</sub></p>
+<p align="center"><a href="docs/library/README.md"><b>📊 대시보드 자료실 보기</b></a><br><sub>운영비용 · 영업 파이프라인 · 매출 · 현금흐름 · 웹 행동 분석 | 이미지와 설명</sub></p>
 
 <p align="center">
   비즈니스 질문을 <b>지표</b>로 정의하고,<br>
