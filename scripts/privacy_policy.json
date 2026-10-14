@@ -1,0 +1,31 @@
+{
+  "existing_public_urls": [
+    "https://github.com/201710081",
+    "https://github.com/201710081/201710081/blob/main/docs/project-experience.md",
+    "https://img.shields.io/badge/15%EA%B1%B4%20%EC%9D%B4%EC%83%81%20%C2%B7%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B2%BD%ED%97%98-4E79A7?style=for-the-badge",
+    "https://img.shields.io/badge/4%EB%85%84%20%EC%B0%A8%20%C2%B7%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%8B%9C%EA%B0%81%ED%99%94-476A64?style=for-the-badge",
+    "https://img.shields.io/badge/AWS%20Lambda-C77B12?style=for-the-badge",
+    "https://img.shields.io/badge/Amazon%20Athena-8C4FFF?style=for-the-badge",
+    "https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge",
+    "https://img.shields.io/badge/BI%20Matrix-475569?style=for-the-badge",
+    "https://img.shields.io/badge/Git-F05032?style=for-the-badge",
+    "https://img.shields.io/badge/JavaScript-85733B?style=for-the-badge",
+    "https://img.shields.io/badge/Python-3776AB?style=for-the-badge",
+    "https://img.shields.io/badge/SQL%20%C2%B7%20Python%20%C2%B7%20Tableau-B77845?style=for-the-badge",
+    "https://img.shields.io/badge/SQL-4479A1?style=for-the-badge",
+    "https://img.shields.io/badge/Salesforce%20Data%20Cloud-00A1E0?style=for-the-badge",
+    "https://img.shields.io/badge/Tableau%20Cloud-4E79A7?style=for-the-badge",
+    "https://img.shields.io/badge/Tableau%20Desktop-E97627?style=for-the-badge",
+    "https://img.shields.io/badge/Tableau%20Next-1F457E?style=for-the-badge",
+    "https://img.shields.io/badge/Tableau%20Prep-E97627?style=for-the-badge",
+    "https://img.shields.io/badge/Tableau%20Server-285B73?style=for-the-badge",
+    "https://img.shields.io/badge/dbt-FF694B?style=for-the-badge"
+  ],
+  "reviewed_assets": {
+    "docs/library/assets/cashflow.png": "0bfa61b63803fd4b9b050ffe4ff6cc3887f5b545a07d29e3d1b152f565446a14",
+    "docs/library/assets/luvum.png": "bc673e4edb058d0c8475fc1c253c4310c4ca45c8f3b2b8b031657eaa89ea1df5",
+    "docs/library/assets/mz.png": "a64eeee911ace10a89a7dfa3cc3f82ae4e7c6694201a3e7028211e9b347251c0",
+    "docs/library/assets/opex.png": "eb452586c603db865bfef146a8968c88345984106fae280ffc316542671bcbe3",
+    "docs/library/assets/webref.png": "e5f366414dbe56ba78192662062cf6bc778c8414174300465a0ef5572fa3f1b7"
+  }
+}

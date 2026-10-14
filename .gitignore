@@ -1,0 +1,24 @@
+# Public career documents only. Never place client originals in this checkout.
+*
+!README.md
+!.gitignore
+!.gitattributes
+!docs/
+!docs/**/
+!docs/**/*.md
+!docs/library/assets/
+!docs/library/assets/*.png
+!.githooks/
+!.githooks/pre-commit
+!.githooks/pre-push
+!.githooks/run-privacy-check
+!scripts/
+!scripts/privacy_guard.py
+!scripts/privacy_policy.json
+!scripts/install-hooks.ps1
+!tests/
+!tests/test_privacy_guard.py
+!.github/
+!.github/workflows/
+!.github/workflows/privacy.yml
+__pycache__/

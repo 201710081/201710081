@@ -1,0 +1,15 @@
+#!/bin/sh
+set -eu
+root=$(git rev-parse --show-toplevel)
+cd "$root"
+configured=$(git config --get privacy.python || true)
+if [ -n "$configured" ]; then
+  exec "$configured" scripts/privacy_guard.py "$@"
+fi
+for candidate in python3 python; do
+  if "$candidate" -c 'import sys; assert sys.version_info.major == 3' >/dev/null 2>&1; then
+    exec "$candidate" scripts/privacy_guard.py "$@"
+  fi
+done
+echo "Privacy check blocked: install Python or run scripts/install-hooks.ps1 -PythonPath <python>." >&2
+exit 1

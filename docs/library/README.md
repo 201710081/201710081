@@ -20,7 +20,7 @@
 <a href="luvum.md"><img src="assets/luvum.png" alt="영업 파이프라인·전환 분석 — 마스킹한 화면" width="100%"></a>
 <h3><a href="luvum.md">02 · 영업 파이프라인·전환 분석</a></h3>
 <p>바이어 발굴은 어느 단계까지 진행되었는가?</p>
-<p><sub>디자인·개발 100% / 단계별 KPI / 담당자 비교</sub></p>
+<p><sub>디자인·개발 전담 / 단계별 KPI / 담당자 비교</sub></p>
 </td>
 </tr>
 <tr>
@@ -28,7 +28,7 @@
 <a href="mz.md"><img src="assets/mz.png" alt="매출·목표 달성률 분석 — 마스킹한 화면" width="100%"></a>
 <h3><a href="mz.md">03 · 매출·목표 달성률 분석</a></h3>
 <p>매출은 목표 대비 어느 수준이며, 채널별 차이는 무엇인가?</p>
-<p><sub>제작 100% / 목표·실적 비교 / 채널별 추이</sub></p>
+<p><sub>제작 전담 / 목표·실적 비교 / 채널별 추이</sub></p>
 </td>
 <td width="50%" valign="top">
 <a href="cashflow.md"><img src="assets/cashflow.png" alt="펀드·ETF 현금흐름 모니터링 — 마스킹한 화면" width="100%"></a>
